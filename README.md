@@ -1,6 +1,11 @@
 <h1 align="center">  NTUIM Mac Studio </h1>
 
-
+<p align="center">
+  <a href="https://tinyurl.com/y467e77r">
+    <img src="https://badges.gitter.im/icheft/Mac-Studio.svg"
+         alt="Join the chat at https://gitter.im/icheft/Mac-Studio">
+  </a>
+</p>
 
 NTUIM Mac Studio introduces students to a series of useful tools and applications on macOS. The course serves as a basic portal for students to further create and learn more from their devices. The course is beginner friendly.
 
