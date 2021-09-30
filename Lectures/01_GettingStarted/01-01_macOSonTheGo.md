@@ -1,5 +1,21 @@
 # macOS on the Go
 
+
++ [macOS on the Go](#macos-on-the-go)
+    + [From Windows to macOS](#from-windows-to-macos)
+        + [Empty Desktop](#empty-desktop)
+        + [Eye-Opener](#eye-opener)
+        + [Specific Apps Demo](#specific-apps-demo)
+    + [Random Tips and Tricks](#random-tips-and-tricks)
+        + [Apple Ecosystem](#apple-ecosystem)
+        + [Backups and Time Machine](#backups-and-time-machine)
+    + [Useful Apps](#useful-apps)
+        + [Preinstalled Apps](#preinstalled-apps)
+        + [Programming/Coding](#programmingcoding)
+        + [Productivity](#productivity)
+        + [Utilities](#utilities)
+        + [Demo](#demo)
+
 ## From Windows to macOS
 
 ### Empty Desktop
