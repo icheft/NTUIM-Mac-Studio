@@ -15,35 +15,6 @@ Why can't you use other editors like Atom, Sublime, XCode, Vim, etc.? Well, you 
 
 ## Getting Started
 
-### Flows
-
-+ Explorer
-+ Search
-+ Source Control
-+ Debug
-+ Extensions
-+ Split
-+ Zenmode
-+ Minimap
-+ Find and Replace
-+ Navigate Files
-+ Move Around
-+ Intellisense
-+ Settings
-    + font family
-    + word wrap
-    + format on save
-    + Shortcuts
-+ Extensions
-    + Themes
-    + Prettier
-    + Highlight
-    + advanced-new-file
-    + Todotree
-    + Markdown
-+ Settings Sync
-    + the old way (setting sync)
-    + new way (integrated)
 
 
 ### Basics
